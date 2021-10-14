@@ -1,0 +1,1 @@
+# Keda_Durable_func_MSSQL_ScaledObject
